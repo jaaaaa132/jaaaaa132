@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaaaaa132
-- 👀 I’m interested in programig (games/robots)
+- 👀 I’m interested in programig (robots and low-level programs from ground up)
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects of all types
 - 📫 You can reach me by email: martin.slavkovsky09@gmail.com
